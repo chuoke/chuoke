@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **chuoke/chuoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+My name is Mingchao Zhang. I'm just a PHP Developer, engaged in the development of B2B related applications in traditional industries. And now I'm working at [![](https://www.bankcement.com/favicon.ico)](https://www.bankcement.com/), which is a B2B company in the cement industry, as PHP Developer building APIs for Mobile APP and OMS by using Laravel/Lumen.
+
+I'm very like Laravel and Vue.js. Recently, I'm learning Nuxt.js. [Cootab.com](https://cootab.com/) and [Youlink.com](https://youlinkin.com/) is mine created two websites using Laravel and Nuxt.js.
