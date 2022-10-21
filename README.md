@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm just a PHP Developer, engaged in the development of B2B related applications in traditional industries. As PHP Developer building APIs for Mobile APP and OMS by using Laravel/Lumen.
+I'm just a PHP Developer, engaged in the development of B2B related applications in traditional industries. As PHP Developer building APIs for Mobile APP and OMS by using Laravel.
 
 I'm very like Laravel and Vue.js. [Cootab](https://cootab.com/) and [YouLinkin](https://youlinkin.com/) are mines made using Laravel and Nuxt.js.
