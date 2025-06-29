@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I work in B2B related development.
+A junior php full-stack engineer.
 
 - [Cootab](https://cootab.com/)
 - [YouLinkin](https://youlinkin.com/)
